@@ -8,6 +8,7 @@ Machine Learning can be classified into three types:
 
 1. Supervised learning
 2. Unsupervised learning
+3. Reinforcement Learning
 
 #### Note: Every individual program has two files (fileName).py and (fileName).ipynb. The .py files are pure python code files, And .ipynb files are for program explanation.
 
