@@ -9,6 +9,9 @@ Machine Learning can be classified into three types:
 1. Supervised learning
 2. Unsupervised learning
 
+Note: Every individual program has two files .py and .ipynb. The .py files are pure python code files,
+And .ipynb files are for clarification of the problem
+
 Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with
 Zero configuration required
 Free access to GPUs
