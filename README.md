@@ -20,3 +20,9 @@ Easy sharing.
 https://colab.research.google.com/
 
 If you want to run these programs offline, then you should download Anaconda or mini Anaconda.
+
+### Credits:
+Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow with Laurence Moroney. 
+https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV
+edureka!
+https://www.youtube.com/watch?v=GwIo3gDZCVQ&t=11890s
