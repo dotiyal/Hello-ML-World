@@ -8,3 +8,4 @@ The labels.txt file is a list of data labels for the model to classify data inpu
 The model_unquant.tflite file is the actual custom model in Tensforflow Lite format.
 
 we can either embed these two files in the **'assets'** folder of the Flutter project or we can upload the model to the Firebase ML for serving dynamically to the mobile apps.
+![Image](https://github.com/dotiyal/Hello-ML-World/blob/master/App/assest.png)
