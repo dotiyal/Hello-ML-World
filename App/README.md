@@ -9,4 +9,4 @@ The model_unquant.tflite file is the actual custom model in Tensforflow Lite for
 
 we can either embed these two files in the 'assets' folder of the Flutter project or we can upload the model to the Firebase ML for serving dynamically to the mobile apps.
 
-![](App/assets.jpg)
+
