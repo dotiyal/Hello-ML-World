@@ -1,4 +1,4 @@
-## Some examples of how ML model can be integrated with the backend of a Flutter App:
+## How ML model can be integrated with the backend of a Flutter App:
 1: Tensorflow Lite with Teachable Machine
 Once we are satisfied with the accuracy of the model, we can export the model and convert it to the right format based on your platform(TensorFlow Lite).
 In this case, we can export the custom model as Tensorflow Lite model for mobile apps.
